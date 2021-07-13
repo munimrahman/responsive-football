@@ -1,0 +1,50 @@
+*{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+/* Hero Section Style Starts */
+.hero{
+    display: flex;
+    background: #2D25A0;
+}
+.hero-details{
+    padding-top: 207px;
+    padding-left: 156px;
+}
+.hero-details h1{
+    color: #FFFFFF;
+    font-weight: bold;
+    font-size: 64px;
+    line-height: 80px;
+}
+.button{
+    background: #E02C6D;
+    width: 168px;
+    height: 44px;
+    text-align: center;
+    margin-top: 27px;
+    padding: 10px 24px;
+}
+.button a{
+    color: #FFFFFF;
+    text-decoration: none;
+    font-weight: 500;
+    font-size: 16px;
+}
+.arrow-icon{
+    padding-left: 8px;
+    font-size: 16px;
+}
+.hero-image{
+    padding-top: 135px;
+    padding-left: 102px;
+    margin-bottom: 86px;
+}
+.hero-image img{
+    width: 556px;
+}
+
+/* Hero Section Style Ends */
+
